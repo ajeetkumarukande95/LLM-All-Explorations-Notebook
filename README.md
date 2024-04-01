@@ -3,6 +3,8 @@
 https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai
 # Advanced RAG on HuggingFace documentation using LangChain
 https://huggingface.co/learn/cookbook/advanced_rag
+# RAG Evaluation
+https://huggingface.co/learn/cookbook/rag_evaluation
 # References
 https://github.com/huggingface/notebooks/blob/main/examples/summarization.ipynb
 # Understanding Parameter-Efficient LLM Finetuning: Prompt Tuning And Prefix Tuning
