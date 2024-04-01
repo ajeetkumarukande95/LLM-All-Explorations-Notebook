@@ -1,7 +1,8 @@
 # LLM-All-Explorations-Notebook
 # What is generative AI?
 https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai
-
+# Advanced RAG on HuggingFace documentation using LangChain
+https://huggingface.co/learn/cookbook/advanced_rag
 # References
 https://github.com/huggingface/notebooks/blob/main/examples/summarization.ipynb
 # Understanding Parameter-Efficient LLM Finetuning: Prompt Tuning And Prefix Tuning
